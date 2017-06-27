@@ -3,7 +3,7 @@
   (general
     (links 77)
     (no_connects 1)
-    (area 115.013099 32.529199 271.660714 194.39)
+    (area 115.013099 32.529199 183.335101 120.917601)
     (thickness 1.6)
     (drawings 473)
     (tracks 289)
@@ -68,12 +68,12 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 1.524 1.524)
-    (pad_drill 0.762)
+    (pad_size 4.826 4.826)
+    (pad_drill 4.826)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 151.765 68.58)
     (grid_origin 150.495 78.105)
-    (visible_elements 7FFFFF7F)
+    (visible_elements 7FFFEF7F)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
       (usegerberextensions true)
@@ -194,6 +194,19 @@
     (uvia_drill 0.1)
   )
 
+  (module Mounting_Holes:MountingHole_5mm (layer F.Cu) (tedit 5952EA9E) (tstamp 594EEF94)
+    (at 149.225 76.835)
+    (descr "Mounting Hole 5mm, no annular")
+    (tags "mounting hole 5mm no annular")
+    (fp_text reference REF** (at 0.508 -4.064) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value MountingHole_5mm (at 0 6) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 4.826 4.826) (drill 4.826) (layers *.Cu))
+  )
+
   (module Housings_DIP:DIP-28_W15.24mm_LongPads (layer F.Cu) (tedit 594EFBCC) (tstamp 594303B2)
     (at 141.605 102.235 90)
     (descr "28-lead dip package, row spacing 15.24 mm (600 mils), LongPads")
@@ -284,19 +297,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-  )
-
-  (module Mounting_Holes:MountingHole_5mm (layer F.Cu) (tedit 59511903) (tstamp 594EEF94)
-    (at 149.225 76.835)
-    (descr "Mounting Hole 5mm, no annular")
-    (tags "mounting hole 5mm no annular")
-    (fp_text reference REF** (at 0.508 -4.064) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value MountingHole_5mm (at 0 6) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad "" np_thru_hole circle (at 0 0) (size 5 5) (drill 4.826) (layers *.Cu *.Mask))
   )
 
   (module Resistors_ThroughHole:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 594EF57C) (tstamp 59472188)
