@@ -63,3 +63,12 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+*.zip
+*.gbl
+*.gbo
+*.gto
+*.gtl
+*.gts
+*.drl
+*.gm1
+*.gbs
