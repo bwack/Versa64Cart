@@ -40,7 +40,7 @@ encoding utf-8
 Sheet 1 1
 Title "Versa64Cart"
 Date "2017-06-27"
-Rev "1.0"
+Rev "1.1"
 Comp ""
 Comment1 "Circuits drawn by BWACK"
 Comment2 "Based on Jim Brain's Simple64Cart"
