@@ -1,6 +1,6 @@
 Ref   - Elfa no.   -
  
-C1    -            - Capacitor 3.8 x 2.6 x 2.5mm
+C1    -            - 100nF Capacitor 3.8 x 2.6 x 2.5mm
 D1,D2 - 300-92-928 - 1N4148 or BAT42 Schottky Diodes or similar
 R1-R4 - 160-95-467 - 22k Resistors Throughhole Axial L6.4 x D2.5 x P7.62mm
 J5    - 300-24-527 - Pin Header Straight 2x2 pins 2.54mm pitch
