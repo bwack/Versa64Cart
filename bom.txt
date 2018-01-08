@@ -1,0 +1,13 @@
+Ref   - Elfa no.   -
+ 
+C1    -            - Capacitor 3.8 x 2.6 x 2.5mm
+D1,D2 - 300-92-928 - 1N4148 or BAT42 Schottky Diodes or similar
+R1-R4 - 160-95-467 - 22k Resistors Throughhole Axial L6.4 x D2.5 x P7.62mm
+J5    - 300-24-527 - Pin Header Straight 2x2 pins 2.54mm pitch
+J5    - 300-24-524 - Pin Header Straight 2x3 pins 2.54mm pitch
+SW1   - 135-39-684 - DIP switch 5 way. W7.62mm slide
+U1    -            - 27128, 27256 or 27512 EPROM DIP-28 W15.24mm
+
+2x Jumpers: Elfadistrelec: 300-24-773
+
+Versa64Cart PCB
