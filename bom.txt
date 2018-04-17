@@ -11,3 +11,6 @@ U1    -            - 27128, 27256 or 27512 EPROM DIP-28 W15.24mm
 2x Jumpers: Elfadistrelec: 300-24-773
 
 Versa64Cart PCB
+
+online bom created by sajattack:
+https://octopart.com/bom-tool/bEfXBXH2
