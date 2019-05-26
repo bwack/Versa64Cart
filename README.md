@@ -14,11 +14,12 @@ I have put the rev 1.1 in a separate folder in case someone wants to use the kic
 Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schematic and layout.
 
 ## changes Rev 1.1 -> 1.2
-
-
-- Jumpers moved to outer edge
-- Solder jumpers at the top layer.
+- A reset button
+- Jumpers accessible on outer edge.*
+- Solder jumpers at the top layer
 - Documentation
+* Remember to turn off the computer before changing the jumpers.
+
 ![boardimages](v1.2&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
 
 ## Versa64Cart on YouTube
