@@ -13,15 +13,26 @@ Please see the documentation for more information.
 I have put the rev 1.1 in a separate folder in case someone wants to use the kicad files as a template.
 Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schematic and layout.
 
-## changes Rev 1.1 -> 1.2
+# changes
+## 1.3
+- Moved IC socket further from edge
+
+## 1.2
 - A reset button
 - Jumpers accessible on outer edge.*
 - Solder jumpers at the top layer
 - Documentation
+- Designed in Eagle
 * Remember to turn off the computer before changing the jumpers.
 
 ![boardimages](v1.2&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
 
-## Versa64Cart on YouTube
+## 1.1 and 1.0
+
+- Based on Simple64cart. Converted Eagle to KiCad
+- Moved IC socket further from edge
+- Converted Eag
+
+# Versa64Cart on YouTube
 
 https://www.youtube.com/results?search_query=Versa64Cart
