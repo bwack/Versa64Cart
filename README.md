@@ -28,7 +28,7 @@ Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schema
 - Designed in Eagle
 * Remember to turn off the computer before changing the jumpers.
 
-![boardimages](v1.3&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
+![boardimages](v1.2&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
 
 ## 1.1 and 1.0
 
