@@ -15,23 +15,29 @@ Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schema
 
 # changes
 ## 1.3
-- Moved IC socket further from edge
-
+- Change: Cartridge enclosure support
+  - Moved IC socket away from edge
+  - Moved diode group away from edge
+  - Bom: Use right angle pin headers. The straight ones are too tall.
+  
 ## 1.2
 - A reset button
 - Jumpers accessible on outer edge.*
 - Solder jumpers at the top layer
-- Documentation
+- New documentation
 - Designed in Eagle
 * Remember to turn off the computer before changing the jumpers.
 
-![boardimages](v1.2&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
+![boardimages](v1.3&#32;(eagle)/pictures/Versa64Cart_scan_both_sides.jpg)
 
 ## 1.1 and 1.0
 
-- Based on Simple64cart. Converted Eagle to KiCad
-- Moved IC socket further from edge
-- Converted Eag
+- Designed in KiCad based on simple64cart eagle files
+- Support retro innovation cartridge enclosure (allthough pins too high)
+- Moved IC sockets further from edge
+- Added 16k game support
+- Added dip switch and jumpers
+- Added Documentation
 
 # Versa64Cart on YouTube
 
