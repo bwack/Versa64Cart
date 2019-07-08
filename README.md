@@ -14,6 +14,9 @@ I have put the rev 1.1 in a separate folder in case someone wants to use the kic
 Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schematic and layout.
 
 # changes
+## 1.4
+- Change: card edge connector with pads like in v1.1
+
 ## 1.3
 - Change: Cartridge enclosure support
   - Moved IC socket away from edge
