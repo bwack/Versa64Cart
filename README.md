@@ -8,7 +8,6 @@ Versa64Cart is designed to be a modern easy-to-use cartridge development board f
 Supported EPROMS are: 27C64 (8k), 27C128 (16k), 27C256 (32k), 27C512 (64k).
 Please see the documentation for more information.
 
-
 # Eagle and KiCad design files
 I have put the rev 1.1 in a separate folder in case someone wants to use the kicad files as a template.
 Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schematic and layout.
@@ -45,3 +44,7 @@ Rev. 1.2 was designed by Sven Peterson in eagle. It is a complete redrawn schema
 # Versa64Cart on YouTube
 
 https://www.youtube.com/results?search_query=Versa64Cart
+
+# VersaZIF64
+Check out VersaZIF64 if you are interested in the Versa64cart and with a ZIF socket.
+https://github.com/bwack/VersaZIF64
