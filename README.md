@@ -12,6 +12,46 @@ Please see the documentation for more information.
 I have put the rev 1.1 in a separate folder in case someone wants to use the kicad files as a template.
 Rev. 1.2 was designed by Sven Petersen in eagle. It is a complete redrawn schematic and layout.
 
+# Quick Guide
+
+## Obtaining binaries
+
+Use the cartconv.exe tool from the VICE emulator to get information and to extract the binary from .CRT files. Copy it to the same folder as your .CRT files.
+
+List the .CRT information:
+
+```
+C:\cartconv>cartconv -f deadtest.CRT
+CRT Version: 1.0
+Name: C64DEADTESTREV718220
+Hardware ID: 0 (Generic Cartridge)
+Mode: exrom: 1 game: 0 (ultimax)
+
+offset  sig  type  bank start size  chunklen
+$000040 CHIP ROM   #000 $e000 $2000 $2010
+
+total banks: 1 size: $002000
+```
+The hardware ID must be 0. The size of the eprom shown here is 8k ($2000).
+
+Convert the binary:
+
+`cartconv -i mycartridge.crt -o mycartridge.bin`
+
+## Combining binaries
+
+The Versa64Cart supports EPROMS from 8k to 8x8k or 4x16k. The easiest way to combine is to use the copy command (in Windows):
+
+`copy /b DeadTest.bin + jupiterl.bin + SomeGame.bin combined.bin`
+
+Special care must be taken if mix 8k and 16k images. The 8k binaries must be allocated in pairs:
+
+`copy /b first8k.bin + second8k.bin + some16k.bin combined.bin`
+
+## Documentation
+
+For more information Please see the pdf file in this repository.
+
 # changes
 ## 1.4
 - Change: card edge connector with pads like in v1.1
