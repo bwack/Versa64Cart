@@ -1,7 +1,7 @@
 
 ![logo](v1.2&#32;(eagle)/pictures/logo.png)
 
-<p align="center"><img src="v1.5/2378_Versa64Cart_v1_4.JPG alt="boardimage_v1_2" width="800"/></p>
+<p align="center"><img src="v1.5/pictures/2378_Versa64Cart_v1_4.JPG alt="boardimage_v1_2" width="800"/></p>
 
 Versa64Cart is designed to be a modern easy-to-use cartridge development board for Commodore 64 and Commodore 128 hobbyists and hackers. The versatile design of the PCB allows for flexible implementation of various cartridge types. Whether it’s a simple cartridge backup of an 8k game or a switchable multi-program diagnostic cartridge, Versa64Cart has you covered.
 
