@@ -56,12 +56,13 @@ For more information Please see the [pdf file](v1.6/pdf/Versa64cart_v1_6.pdf) in
 ## Pictures
 
 
-<a href="v1.6/pictures/0550_Versa64cart_v1_6.JPG"> <img src="v1.6/pictures/0550_Versa64cart_v1_6.JPG" height="230"></a>
-<a href="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG"> <img src="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG" height="230"></a>
-<a href="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG"> <img src="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG" height="230"></a>
-<a href="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG"> <img src="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG" height="230"></a>
-<a href="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG"> <img src="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG" height="230"></a>
-<a href="v1.6/pictures/dimensions.JPG"> <img src="v1.6/pictures/dimensions.png" height="230"></a>
+<a href="v1.6/pictures/0550_Versa64cart_v1_6.JPG"> <img src="v1.6/pictures/0550_Versa64cart_v1_6.JPG" height="220"></a>
+<a href="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG"> <img src="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG" height="220"></a>
+<a href="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG"> <img src="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG" height="220"></a>
+<a href="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG"> <img src="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG" height="220"></a>
+<a href="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG"> <img src="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG" height="220"></a>
+
+![](v1.6/pictures/dimensions.png)
 
 
 # Changes
