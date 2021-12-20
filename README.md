@@ -1,7 +1,7 @@
 
 ![logo](v1.2&#32;(eagle)/pictures/logo.png)
 
-<p align="center"><img src="v1.5/pictures/2378_Versa64Cart_v1_4.JPG" alt="boardimage_v1_2" width="800"/></p>
+<p align="center"><img src="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG" alt="boardimage" width="800"/></p>
 
 Versa64Cart is designed to be a modern easy-to-use cartridge development board for Commodore 64 and Commodore 128 hobbyists and hackers. The versatile design of the PCB allows for flexible implementation of various cartridge types. Whether it’s a simple cartridge backup of an 8k game or a switchable multi-program diagnostic cartridge, Versa64Cart has you covered.
 
@@ -51,9 +51,25 @@ Special care must be taken if mix 8k and 16k images. The 8k binaries must be all
 
 ## Documentation
 
-For more information Please see the pdf file in this repository.
+For more information Please see the [pdf file](v1.6/pdf/Versa64cart_v1_6.pdf) in this repository.
+
+## Pictures
+
+
+<a href="v1.6/pictures/0550_Versa64cart_v1_6.JPG"> <img src="v1.6/pictures/0550_Versa64cart_v1_6.JPG" height="230"></a>
+<a href="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG"> <img src="v1.6/pictures/0551_Versa_in_Stumpy_open.JPG" height="230"></a>
+<a href="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG"> <img src="v1.6/pictures/0552_Versa_in_Stumpy_closed.JPG" height="230"></a>
+<a href="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG"> <img src="v1.6/pictures/0553_-_versa64_in_Z-7_case.JPG" height="230"></a>
+<a href="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG"> <img src="v1.6/pictures/0555_-_versa64_in_KM-20_case.JPG" height="230"></a>
+<a href="v1.6/pictures/dimensions.JPG"> <img src="v1.6/pictures/dimensions.png" height="230"></a>
+
 
 # Changes
+## 1.6
+- Change: Notches added to fit the thefuturewas8bit.com stumpy cartridge case (not the button hole!)
+![boardimages](v1.6/pictures/Versa64Cart_scan_both_sides.jpg)
+
+
 ## 1.5
 - Change: Combined footprint SW1, 5Way-DIP and 2x5 2.54mm pin header
 

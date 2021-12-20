@@ -1,0 +1,33 @@
+      
+       Board: Versa64Cart
+       Rev.:  1.6
+  
+       Files:
+       ======
+  
+       All Gerber files are generated in extended gerber format (RS274X)
+       *.TOP        : Film top copper
+       *.BOT        :  -"- bottom copper
+       *.STC        :  -"- top soldermask 
+       *.STS        :  -"- bottom soldermask
+       *.PLC        :  -"- silk screen top
+       *.PLS        :  -"- silk screen bottom
+       *.DK         : Drills plated Through (Excellon)
+       *.NDK        : Drills not plated Through (Excellon)
+       *.OUT        : Board outline
+       
+  
+       Board Size:
+       ===========
+       Length     :   58.0 mm
+       Width      :   48.9 mm
+       Thickness  :   1.6 mm
+       Material   :   FR 4
+       Copper     :   35 um
+       Surface    :   HASL
+       
+       Remarks:
+       ========
+       minimum drill: 0.35mm
+       minimum width: 8 mil
+       minimum distance: 6 mil
