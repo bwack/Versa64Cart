@@ -102,6 +102,11 @@ For more information Please see the [pdf file](v1.6/pdf/Versa64cart_v1_6.pdf) in
 - Added dip switch and jumpers
 - Added Documentation
 
+# External websites
+
+[Blog post, "Versa64Cart and C64 ROMs", by Gregory Nacu at c64os.com ](https://c64os.com/post/versa64cart)
+
+
 # Versa64Cart on YouTube
 
 https://www.youtube.com/results?search_query=Versa64Cart
